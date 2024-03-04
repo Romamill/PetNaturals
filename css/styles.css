@@ -89,7 +89,7 @@ header {
 }
 
 .header-logo {
-  background-image: url("./images/cloud-left.webp");
+  background-image: url(./images/cloud-left.webp);
   background-size: contain;
   background-repeat: no-repeat;
   padding: 10px;
@@ -100,7 +100,7 @@ header {
   align-items: center;
   justify-content: center;
   gap: 50px;
-  background-image: url("./images/cloud-right.webp");
+  background-image: url(./images/cloud-right.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -147,7 +147,7 @@ header {
   position: relative;
   width: 100%;
   height: 100px;
-  background-image: url("./images/cloud-left.webp");
+  background-image: url(./images/cloud-left.webp);
   background-size: cover;
   background-position: center;
 }
@@ -156,7 +156,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-image: url("./images/cloud-left.webp");
+  background-image: url(./images/cloud-left.webp);
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 10px;
@@ -232,7 +232,7 @@ header {
   margin-bottom: 0;
   height: 100%;
   overflow-y: hidden;
-  background-image: url("./images/sky-grass.webp");
+  background-image: url(./images/sky-grass.webp);
   background-size: cover;
   background-position: center;
 }
@@ -273,7 +273,7 @@ header {
   position: relative;
   background-color: var(--clr-brand);
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("./images/sky-grass.webp");
+    url(./images/sky-grass.webp);
   background-repeat: no-repeat;
   margin-left: auto;
   margin-right: auto;
@@ -344,7 +344,7 @@ header {
 }
 
 .hero-item {
-  background-image: url("./images/cat-paw-dark.webp");
+  background-image: url(./images/cat-paw-dark.webp);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 28px;
