@@ -273,7 +273,7 @@ header {
   position: relative;
   background-color: var(--clr-brand);
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(./images/sky-grass.webp);
+    url(../images/sky-grass.webp);
   background-repeat: no-repeat;
   margin-left: auto;
   margin-right: auto;
@@ -344,7 +344,7 @@ header {
 }
 
 .hero-item {
-  background-image: url(./images/cat-paw-dark.webp);
+  background-image: url(../images/cat-paw-dark.webp);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 28px;
@@ -388,7 +388,7 @@ header {
   border-radius: 20px 20px 10px 10px;
   position: relative;
   overflow: hidden;
-  background-image: url(./images/rectangle.webp);
+  background-image: url(../images/rectangle.webp);
   background-repeat: no-repeat;
   background-size: contain;
   background-position-y: -20px;
@@ -516,13 +516,13 @@ header {
   .about {
     padding-top: 100px;
     padding-bottom: 100px;
-    background-image: url(./images/bgr-paws.webp);
+    background-image: url(../images/bgr-paws.webp);
     background-size: cover;
   }
 }
 
 .about-wrapper {
-  background-image: url(./images/bgr-paws.webp);
+  background-image: url(../images/bgr-paws.webp);
   background-size: cover;
   max-width: 100%;
 }
@@ -638,7 +638,7 @@ header {
   .result-text {
     border: none;
     padding: 40px 120px 40px 40px;
-    background-image: url(./images/border.webp);
+    background-image: url(../images/border.webp);
     background-repeat: no-repeat;
     background-size: contain;
     width: 615px;
