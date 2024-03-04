@@ -89,7 +89,7 @@ header {
 }
 
 .header-logo {
-  background-image: url(./images/cloud-left.webp);
+  background-image: url(../images/cloud-left.webp);
   background-size: contain;
   background-repeat: no-repeat;
   padding: 10px;
@@ -100,7 +100,7 @@ header {
   align-items: center;
   justify-content: center;
   gap: 50px;
-  background-image: url(./images/cloud-right.webp);
+  background-image: url(../images/cloud-right.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -147,7 +147,7 @@ header {
   position: relative;
   width: 100%;
   height: 100px;
-  background-image: url(./images/cloud-left.webp);
+  background-image: url(../images/cloud-left.webp);
   background-size: cover;
   background-position: center;
 }
@@ -156,7 +156,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-image: url(./images/cloud-left.webp);
+  background-image: url(../images/cloud-left.webp);
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 10px;
